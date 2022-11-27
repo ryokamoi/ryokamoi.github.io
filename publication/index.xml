@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Ryo Kamoi</title>
+    <link>https://ryokamoi.github.io/publication/</link>
+      <atom:link href="https://ryokamoi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://ryokamoi.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Shortcomings of Question Answering Based Factuality Frameworks for Error Localization</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Unknown Object Detection with Discrepancy Networks for Semantic Segmentation</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternative methods for fast and stable GAN</title>
+      <link>https://ryokamoi.github.io/publication/endo-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/endo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Out-of-Distribution Detection with Likelihoods Assigned by Deep Generative Models Using Multimodal Prior Distributions</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why is the Mahalanobis Distance Effective for Anomaly Detection?</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Likelihood Assignment for Out-of-Distribution Inputs in Deep Generative Models is Sensitive to Prior Distribution Choice</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
