@@ -2,36 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ryokamoi.github.io/publication-type/3/</loc>
-    <lastmod>2022-11-27T12:00:24-06:00</lastmod>
+    <loc>https://ryokamoi.github.io/publication-type/1/</loc>
+    <lastmod>2023-01-23T11:13:09+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/tag/nlp/</loc>
-    <lastmod>2022-11-27T12:00:24-06:00</lastmod>
+    <lastmod>2023-01-23T11:13:09+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication_types/</loc>
-    <lastmod>2022-11-27T12:00:24-06:00</lastmod>
+    <lastmod>2023-01-23T11:13:09+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/</loc>
-    <lastmod>2022-11-27T12:00:24-06:00</lastmod>
+    <lastmod>2023-01-23T11:13:09+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/</loc>
-    <lastmod>2022-11-27T12:00:24-06:00</lastmod>
+    <lastmod>2023-01-23T11:13:09+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ryokamoi.github.io/publication/kamoi-2022/</loc>
-    <lastmod>2022-11-27T12:00:24-06:00</lastmod>
+    <loc>https://ryokamoi.github.io/publication/kamoi-2023/</loc>
+    <lastmod>2023-01-23T11:13:09+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/tags/</loc>
-    <lastmod>2022-11-27T12:00:24-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/publication-type/1/</loc>
-    <lastmod>2022-11-27T12:00:23-06:00</lastmod>
+    <lastmod>2023-01-23T11:13:09+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/tag/ai-safety/</loc>
@@ -39,6 +35,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/kamoi-2021/</loc>
+    <lastmod>2022-11-27T12:00:23-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/publication-type/3/</loc>
     <lastmod>2022-11-27T12:00:23-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
