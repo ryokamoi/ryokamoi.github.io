@@ -5,7 +5,7 @@
     <link>https://ryokamoi.github.io/</link>
       <atom:link href="https://ryokamoi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryo Kamoi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Ryo Kamoi</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Shortcomings of Question Answering Based Factuality Frameworks for Error Localization</title>
-      <link>https://ryokamoi.github.io/publication/kamoi-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://ryokamoi.github.io/publication/kamoi-2023/</guid>
+      <link>https://ryokamoi.github.io/publication/kamoi-2023-shortcomings/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2023-shortcomings/</guid>
       <description></description>
     </item>
     
