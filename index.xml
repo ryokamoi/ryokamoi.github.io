@@ -37,6 +37,25 @@
     </item>
     
     <item>
+      <title>PyTorch Implementation of Influence Function</title>
+      <link>https://ryokamoi.github.io/post/2020-06-18/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/post/2020-06-18/</guid>
+      <description>&lt;p&gt;Influence function for neural networks is proposed in the ICML2017 best paper (Wei Koh &amp;amp; Liang, 2017). However, to the best of my knowledge, there is no generic PyTorch implementation with reliable test codes. Based on some existing implementations, I’m developing reliable Pytorch implementation of influence function.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ryokamoi/pytorch_influence_functions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ryokamoi/pytorch_influence_functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ryokamoi/test_pytorch_influence_functions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ryokamoi/test_pytorch_influence_functions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My repositories are forks of the following great work.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nimarb/pytorch_influence_functions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/nimarb/pytorch_influence_functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dedeswim/pytorch_influence_functions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/dedeswim/pytorch_influence_functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nayopu/influence_function_with_lissa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/nayopu/influence_function_with_lissa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Alternative methods for fast and stable GAN</title>
       <link>https://ryokamoi.github.io/publication/endo-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -61,6 +80,30 @@
     </item>
     
     <item>
+      <title>Topologically Faithful Implicit Curve Approximation by Constrained Least Squares</title>
+      <link>https://ryokamoi.github.io/post/2019-05-11/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/post/2019-05-11/</guid>
+      <description>&lt;p&gt;I have presented my research about implicit curve approximation in Meeting of the Minds 2019 (Undergraduate Research Symposium at CMU).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ryokamoi.github.io/blog/assets/pdf/implicitcurve_poster.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;My poster presented at Meeting of the Minds 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ryokamoi/implicit_curve_approximation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Implementation of present implicit curve approximation methods&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our method is based on the topologically faithful implicit curve approximation method proposed by Keren (2004). One shortcomming of the method is that it requires high-degree non-linear optimization. We propose a method to transform the problem into contrained least squares, which can be solved by quadratic programming.&lt;/p&gt;
+&lt;p&gt;Shortcommings of our method are&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It requires an ordering of the data points.&lt;/li&gt;
+&lt;li&gt;It requires control points.&lt;/li&gt;
+&lt;li&gt;The representation power is not sufficient.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;References&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Keren, D. (2004). Topologically Faithful Fitting of Simple Closed Curves. IEEE Transactions on Pattern Analysis and Machine Intelligence, 26(1), 118–123. &lt;a href=&#34;https://doi.org/10.1109/TPAMI.2004.1261095&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1109/TPAMI.2004.1261095&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Likelihood Assignment for Out-of-Distribution Inputs in Deep Generative Models is Sensitive to Prior Distribution Choice</title>
       <link>https://ryokamoi.github.io/publication/kamoi-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -69,11 +112,37 @@
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://ryokamoi.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ryokamoi.github.io/project/example/</guid>
-      <description></description>
+      <title>Implementations of VAEs for Text</title>
+      <link>https://ryokamoi.github.io/post/2018-08-19/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/post/2018-08-19/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;“Generating Sentences from a Continuous Space” (Bowman et al., 2015)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ryokamoi/original_textvae&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ryokamoi/original_textvae&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Implementation of the first work on VAE for text. This model is a simple LSTM-LSTM seq2seq model with word dropout.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;“Improved Variational Autoencoders for Text Modeling using Dilated Convolutions” (Yang, Hu, Salakhutdinov, &amp;amp; Taylor, 2017)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ryokamoi/dcnn_textvae&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ryokamoi/dcnn_textvae&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Implementation of an improved model of VAE for text. This model uses dilated CNN as a decoder to control the capacity of the decoder.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;“A Hybrid Convolutional Variational Autoencoder for Text Generation” (Semeniuta, Severyn, &amp;amp; Barth, 2017)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ryokamoi/hybrid_textvae&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ryokamoi/hybrid_textvae&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Implementation of VAE for text with hybrid structure. This model tries to solve the problem called “posterior collapse” with an auxiliary task to predict a sentence with CNN without teacher forcing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;References&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Bowman, S. R., Vilnis, L., Vinyals, O., Dai, A. M., Jozefowicz, R., &amp;amp; Bengio, S. (2015). Generating Sentences from a Continuous Space. In SIGNLL Conference on Computational Natural Language Learning (CoNLL).&lt;/li&gt;
+&lt;li&gt;Yang, Z., Hu, Z., Salakhutdinov, R., &amp;amp; Taylor, B.-K. (2017). Improved Variational Autoencoders for Text Modeling using Dilated Convolutions. In International Conference on Machine Learning (ICML).&lt;/li&gt;
+&lt;li&gt;Semeniuta, S., Severyn, A., &amp;amp; Barth, E. (2017). A Hybrid Convolutional Variational Autoencoder for Text Generation. In Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 627–637).&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>

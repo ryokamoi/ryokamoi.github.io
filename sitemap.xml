@@ -46,6 +46,14 @@
     <lastmod>2022-11-27T12:00:23-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ryokamoi.github.io/post/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/post/2020-06-18/</loc>
+    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ryokamoi.github.io/publication/endo-2020/</loc>
     <lastmod>2022-11-27T12:00:23-06:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -62,16 +70,16 @@
     <lastmod>2022-11-27T12:00:23-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ryokamoi.github.io/post/2019-05-11/</loc>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ryokamoi.github.io/publication/kamoi-2019/</loc>
     <lastmod>2022-11-27T12:00:23-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ryokamoi.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://ryokamoi.github.io/post/2018-08-19/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/admin/</loc>
@@ -80,7 +88,7 @@
     <loc>https://ryokamoi.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ryokamoi.github.io/post/</loc>
+    <loc>https://ryokamoi.github.io/project/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/event/</loc>
