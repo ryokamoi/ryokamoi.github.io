@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ryokamoi.github.io/post/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/post/2023-06-16-llm/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ryokamoi.github.io/publication-type/1/</loc>
     <lastmod>2023-05-14T10:17:58+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15,10 +27,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/</loc>
-    <lastmod>2023-05-14T10:17:58+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/</loc>
     <lastmod>2023-05-14T10:17:58+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -44,10 +52,6 @@
   </url><url>
     <loc>https://ryokamoi.github.io/tag/out-of-distribution-detection/</loc>
     <lastmod>2022-11-27T12:00:23-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/post/</loc>
-    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/post/2020-06-18/</loc>

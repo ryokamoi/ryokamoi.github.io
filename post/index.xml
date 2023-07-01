@@ -5,12 +5,24 @@
     <link>https://ryokamoi.github.io/post/</link>
       <atom:link href="https://ryokamoi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Blog</title>
       <link>https://ryokamoi.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>LLM APIs Cheat Sheet (for Python)</title>
+      <link>https://ryokamoi.github.io/post/2023-06-16-llm/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/post/2023-06-16-llm/</guid>
+      <description>&lt;p&gt;The following information is&lt;/p&gt;
+&lt;h1 id=&#34;openai-gpt&#34;&gt;OpenAI GPT&lt;/h1&gt;
+&lt;h1 id=&#34;cohere&#34;&gt;Cohere&lt;/h1&gt;
+&lt;p&gt;Official Python API is provided at &lt;a href=&#34;https://github.com/cohere-ai/cohere-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/cohere-ai/cohere-python&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PyTorch Implementation of Influence Function</title>
