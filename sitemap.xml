@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ryokamoi.github.io/talk/nagoya-nlp-seminar-at-nagoya-university-ja/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/event/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ryokamoi.github.io/publication-type/1/</loc>
     <lastmod>2023-05-14T10:17:58+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15,10 +27,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/</loc>
-    <lastmod>2023-05-14T10:17:58+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/</loc>
     <lastmod>2023-05-14T10:17:58+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -89,9 +97,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/project/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/event/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
