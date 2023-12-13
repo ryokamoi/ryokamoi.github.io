@@ -1,8 +1,18 @@
 @inproceedings{Kamoi2023wice,
- abstract = {Models for textual entailment have increasingly been applied to settings like fact-checking, presupposition verification in question answering, and validating that generation models' outputs are faithful to a source. However, such applications are quite far from the settings that existing datasets are constructed in. We propose WiCE, a new textual entailment dataset centered around verifying claims in text, built on real-world claims and evidence in Wikipedia with fine-grained annotations. We collect sentences in Wikipedia that cite one or more webpages and annotate whether the content on those pages entails those sentences. Negative examples arise naturally, from slight misinterpretation of text to minor aspects of the sentence that are not attested in the evidence. Our annotations are over sub-sentence units of the hypothesis, decomposed automatically by GPT-3, each of which is labeled with a subset of evidence sentences from the source document. We show that real claims in our dataset involve challenging verification problems, and we benchmark existing approaches on this dataset. In addition, we show that reducing the complexity of claims by decomposing them by GPT-3 can improve entailment models' performance on various domains.},
- author = {Kamoi, Ryo and Goyal, Tanya and Rodriguez, Juan Diego and Durrett, Greg},
- booktitle = {Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
- title = {WiCE: Real-World Entailment for Claims in Wikipedia},
- year = {2023}
+    title = "{W}i{CE}: Real-World Entailment for Claims in {W}ikipedia",
+    author = "Kamoi, Ryo  and
+      Goyal, Tanya  and
+      Rodriguez, Juan  and
+      Durrett, Greg",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.470",
+    pages = "7561--7583",
+    abstract = "Textual entailment models are increasingly applied in settings like fact-checking, presupposition verification in question answering, or summary evaluation. However, these represent a significant domain shift from existing entailment datasets, and models underperform as a result. We propose WiCE, a new fine-grained textual entailment dataset built on natural claim and evidence pairs extracted from Wikipedia. In addition to standard claim-level entailment, WiCE provides entailment judgments over sub-sentence units of the claim, and a minimal subset of evidence sentences that support each subclaim. To support this, we propose an automatic claim decomposition strategy using GPT-3.5 which we show is also effective at improving entailment models{'} performance on multiple datasets at test time. Finally, we show that real claims in our dataset involve challenging verification and retrieval problems that existing models fail to address.",
 }
-
