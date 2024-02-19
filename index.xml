@@ -21,11 +21,25 @@
     </item>
     
     <item>
+      <title>NLP Colloquium (ja)</title>
+      <link>https://ryokamoi.github.io/talk/nlp-colloquium-ja/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/talk/nlp-colloquium-ja/</guid>
+      <description>&lt;p&gt;Talk about &amp;ldquo;&lt;a href=&#34;https://aclanthology.org/2023.emnlp-main.470/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WiCE: Real-World Entailment for Claims in Wikipedia&lt;/a&gt;&amp;rdquo; in Japanese.&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/AZCphX7ycsc?si=NNPv-cc_85pBw70J&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Nagoya NLP Seminar at Nagoya University (ja)</title>
       <link>https://ryokamoi.github.io/talk/nagoya-nlp-seminar-at-nagoya-university-ja/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://ryokamoi.github.io/talk/nagoya-nlp-seminar-at-nagoya-university-ja/</guid>
-      <description>&lt;center&gt;
+      <description>&lt;p&gt;Talk about &amp;ldquo;&lt;a href=&#34;https://aclanthology.org/2023.eacl-main.11/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcomings of Question Answering Based Factuality Frameworks for Error Localization
+&lt;/a&gt;&amp;rdquo; and &amp;ldquo;&lt;a href=&#34;https://aclanthology.org/2023.emnlp-main.470/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WiCE: Real-World Entailment for Claims in Wikipedia&lt;/a&gt;&amp;rdquo; in Japanese.&lt;/p&gt;
+&lt;center&gt;
 &lt;iframe src=&#34;https://drive.google.com/file/d/1YXcigqAiG-uV-NiDG2Ini-G_2Vfz3Xrp/preview&#34; width=&#34;640&#34; height=&#34;480&#34; &gt;&lt;/iframe&gt;
 &lt;/center&gt;
 </description>
