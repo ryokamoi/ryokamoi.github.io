@@ -316,12 +316,13 @@
 
   
 
-<meta name="description" content="Influence function for neural networks is proposed in the ICML2017 best paper (Wei Koh &amp; Liang, 2017). However, to the best of my knowledge, there is no generic PyTorch implementation with reliable test codes." />
+<meta name="description" content="Talk about &ldquo;WiCE: Real-World Entailment for Claims in Wikipedia&rdquo; in Japanese.
+   " />
 
 
 
-<link rel="alternate" hreflang="ja-Jp" href="https://ryokamoi.github.io/post/2020-06-18/" />
-<link rel="canonical" href="https://ryokamoi.github.io/post/2020-06-18/" />
+<link rel="alternate" hreflang="ja-Jp" href="https://ryokamoi.github.io/talk/nlp-colloquium-nlp%E3%82%B3%E3%83%AD%E3%82%AD%E3%82%A6%E3%83%A0-ja/" />
+<link rel="canonical" href="https://ryokamoi.github.io/talk/nlp-colloquium-nlp%E3%82%B3%E3%83%AD%E3%82%AD%E3%82%A6%E3%83%A0-ja/" />
 
 
 
@@ -357,18 +358,19 @@
   <meta property="twitter:creator" content="@ryokamoi" />
 <meta property="twitter:image" content="https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="Ryo Kamoi" />
-<meta property="og:url" content="https://ryokamoi.github.io/post/2020-06-18/" />
-<meta property="og:title" content="PyTorch Implementation of Influence Function | Ryo Kamoi" />
-<meta property="og:description" content="Influence function for neural networks is proposed in the ICML2017 best paper (Wei Koh &amp; Liang, 2017). However, to the best of my knowledge, there is no generic PyTorch implementation with reliable test codes." /><meta property="og:image" content="https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="ja-Jp" />
+<meta property="og:url" content="https://ryokamoi.github.io/talk/nlp-colloquium-nlp%E3%82%B3%E3%83%AD%E3%82%AD%E3%82%A6%E3%83%A0-ja/" />
+<meta property="og:title" content="NLP Colloquium (NLPコロキウム, ja) | Ryo Kamoi" />
+<meta property="og:description" content="Talk about &ldquo;WiCE: Real-World Entailment for Claims in Wikipedia&rdquo; in Japanese.
+   " /><meta property="og:image" content="https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="ja-Jp" />
 
   
     <meta
       property="article:published_time"
-      content="2020-06-18T00:00:00&#43;00:00"
+      content="2023-11-29T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2020-06-18T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-11-29T00:00:00&#43;00:00">
   
 
 
@@ -376,14 +378,9 @@
 
 
 
+
+  
     
-
-
-
-
-
-
-  
 
 
 
@@ -391,37 +388,28 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "BlogPosting",
+  "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://ryokamoi.github.io/post/2020-06-18/"
+    "@id": "https://ryokamoi.github.io/talk/nlp-colloquium-nlp%E3%82%B3%E3%83%AD%E3%82%AD%E3%82%A6%E3%83%A0-ja/"
   },
-  "headline": "PyTorch Implementation of Influence Function",
+  "name": "NLP Colloquium (NLPコロキウム, ja)",
   
-  "datePublished": "2020-06-18T00:00:00Z",
-  "dateModified": "2020-06-18T00:00:00Z",
   
-  "author": {
+  "startDate": "2023-11-29T00:00:00Z",
+  
+  
+  "performer": {
     "@type": "Person",
     "name": "Ryo Kamoi"
   },
   
-  "publisher": {
-    "@type": "Organization",
-    "name": "Ryo Kamoi",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
-    }
-  },
-  "description": "Influence function for neural networks is proposed in the ICML2017 best paper (Wei Koh \u0026amp; Liang, 2017). However, to the best of my knowledge, there is no generic PyTorch implementation with reliable test codes."
+  "description": "Talk about \u0026ldquo;WiCE: Real-World Entailment for Claims in Wikipedia\u0026rdquo; in Japanese.\n   "
 }
 </script>
 
   
 
-  
-
 
 
 
@@ -436,7 +424,7 @@
 
 
   
-  <title>PyTorch Implementation of Influence Function | Ryo Kamoi</title>
+  <title>NLP Colloquium (NLPコロキウム, ja) | Ryo Kamoi</title>
 
   
   
@@ -456,7 +444,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="9184d4b565463623c3a0db16a396cf5b" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="74bdd6d666d7807467a6b06d9fec3a8c" >
 
   
   
@@ -714,7 +702,7 @@
     
     
 
-    <article class="article">
+    <div class="pub">
 
   
 
@@ -736,7 +724,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>PyTorch Implementation of Influence Function</h1>
+  <h1>NLP Colloquium (NLPコロキウム, ja)</h1>
 
   
 
@@ -750,22 +738,9 @@
   
 
   
-  <span class="article-date">
-    
-    
-      
-    
-    Jun 18, 2020
-  </span>
-  
 
   
 
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
   
 
   
@@ -791,18 +766,35 @@
 
   <div class="article-container">
 
+    
+      <br>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Nov 29, 2023 12:00 AM
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+
+    
+
+    <div class="space-below"></div>
+
     <div class="article-style">
-      <p>Influence function for neural networks is proposed in the ICML2017 best paper (Wei Koh &amp; Liang, 2017). However, to the best of my knowledge, there is no generic PyTorch implementation with reliable test codes. Based on some existing implementations, I’m developing reliable Pytorch implementation of influence function.</p>
-<ul>
-<li><a href="https://github.com/ryokamoi/pytorch_influence_functions" target="_blank" rel="noopener">https://github.com/ryokamoi/pytorch_influence_functions</a></li>
-<li><a href="https://github.com/ryokamoi/test_pytorch_influence_functions" target="_blank" rel="noopener">https://github.com/ryokamoi/test_pytorch_influence_functions</a></li>
-</ul>
-<p>My repositories are forks of the following great work.</p>
-<ul>
-<li><a href="https://github.com/nimarb/pytorch_influence_functions" target="_blank" rel="noopener">https://github.com/nimarb/pytorch_influence_functions</a></li>
-<li><a href="https://github.com/dedeswim/pytorch_influence_functions" target="_blank" rel="noopener">https://github.com/dedeswim/pytorch_influence_functions</a></li>
-<li><a href="https://github.com/nayopu/influence_function_with_lissa" target="_blank" rel="noopener">https://github.com/nayopu/influence_function_with_lissa</a></li>
-</ul>
+      <p>Talk about &ldquo;<a href="https://aclanthology.org/2023.emnlp-main.470/" target="_blank" rel="noopener">WiCE: Real-World Entailment for Claims in Wikipedia</a>&rdquo; in Japanese.</p>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZCphX7ycsc?si=NNPv-cc_85pBw70J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
 
     </div>
 
@@ -829,7 +821,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fryokamoi.github.io%2Fpost%2F2020-06-18%2F&amp;text=PyTorch&#43;Implementation&#43;of&#43;Influence&#43;Function" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fryokamoi.github.io%2Ftalk%2Fnlp-colloquium-nlp%25E3%2582%25B3%25E3%2583%25AD%25E3%2582%25AD%25E3%2582%25A6%25E3%2583%25A0-ja%2F&amp;text=NLP&#43;Colloquium&#43;%28NLP%E3%82%B3%E3%83%AD%E3%82%AD%E3%82%A6%E3%83%A0%2C&#43;ja%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -846,7 +838,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fryokamoi.github.io%2Fpost%2F2020-06-18%2F&amp;t=PyTorch&#43;Implementation&#43;of&#43;Influence&#43;Function" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fryokamoi.github.io%2Ftalk%2Fnlp-colloquium-nlp%25E3%2582%25B3%25E3%2583%25AD%25E3%2582%25AD%25E3%2582%25A6%25E3%2583%25A0-ja%2F&amp;t=NLP&#43;Colloquium&#43;%28NLP%E3%82%B3%E3%83%AD%E3%82%AD%E3%82%A6%E3%83%A0%2C&#43;ja%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -865,7 +857,7 @@
         
       
       <li>
-        <a href="mailto:?subject=PyTorch%20Implementation%20of%20Influence%20Function&amp;body=https%3A%2F%2Fryokamoi.github.io%2Fpost%2F2020-06-18%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=NLP%20Colloquium%20%28NLP%E3%82%B3%E3%83%AD%E3%82%AD%E3%82%A6%E3%83%A0%2C%20ja%29&amp;body=https%3A%2F%2Fryokamoi.github.io%2Ftalk%2Fnlp-colloquium-nlp%25E3%2582%25B3%25E3%2583%25AD%25E3%2582%25AD%25E3%2582%25A6%25E3%2583%25A0-ja%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -882,7 +874,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fryokamoi.github.io%2Fpost%2F2020-06-18%2F&amp;title=PyTorch&#43;Implementation&#43;of&#43;Influence&#43;Function" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fryokamoi.github.io%2Ftalk%2Fnlp-colloquium-nlp%25E3%2582%25B3%25E3%2583%25AD%25E3%2582%25AD%25E3%2582%25A6%25E3%2583%25A0-ja%2F&amp;title=NLP&#43;Colloquium&#43;%28NLP%E3%82%B3%E3%83%AD%E3%82%AD%E3%82%A6%E3%83%A0%2C&#43;ja%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -899,7 +891,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=PyTorch&#43;Implementation&#43;of&#43;Influence&#43;Function%20https%3A%2F%2Fryokamoi.github.io%2Fpost%2F2020-06-18%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=NLP&#43;Colloquium&#43;%28NLP%E3%82%B3%E3%83%AD%E3%82%AD%E3%82%A6%E3%83%A0%2C&#43;ja%29%20https%3A%2F%2Fryokamoi.github.io%2Ftalk%2Fnlp-colloquium-nlp%25E3%2582%25B3%25E3%2583%25AD%25E3%2582%25AD%25E3%2582%25A6%25E3%2583%25A0-ja%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -916,7 +908,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fryokamoi.github.io%2Fpost%2F2020-06-18%2F&amp;title=PyTorch&#43;Implementation&#43;of&#43;Influence&#43;Function" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fryokamoi.github.io%2Ftalk%2Fnlp-colloquium-nlp%25E3%2582%25B3%25E3%2583%25AD%25E3%2582%25AD%25E3%2582%25A6%25E3%2583%25A0-ja%2F&amp;title=NLP&#43;Colloquium&#43;%28NLP%E3%82%B3%E3%83%AD%E3%82%AD%E3%82%A6%E3%83%A0%2C&#43;ja%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1076,7 +1068,7 @@
 
 
   </div>
-</article>
+</div>
   </div>
 
   <div class="page-footer">
