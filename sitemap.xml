@@ -3,11 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ryokamoi.github.io/publication-type/1/</loc>
-    <lastmod>2023-10-07T17:32:59-04:00</lastmod>
+    <lastmod>2023-11-16T21:14:01-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ryokamoi.github.io/tag/nlp/</loc>
-    <lastmod>2023-10-07T17:32:59-04:00</lastmod>
+    <loc>https://ryokamoi.github.io/publication/zhao-2023-docmatheval/</loc>
+    <lastmod>2023-11-16T21:14:01-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/publication/zhang-2023-fair/</loc>
+    <lastmod>2023-11-15T17:55:19-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/tag/not_first_author/</loc>
+    <lastmod>2023-11-16T21:14:01-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication_types/</loc>
@@ -24,6 +32,10 @@
   </url><url>
     <loc>https://ryokamoi.github.io/tags/</loc>
     <lastmod>2023-11-16T21:14:01-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/tag/nlp/</loc>
+    <lastmod>2023-10-07T17:32:59-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/kamoi-2023-wice/</loc>
@@ -46,22 +58,6 @@
     <lastmod>2023-05-14T10:17:58+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ryokamoi.github.io/publication-type/3/</loc>
-    <lastmod>2023-11-16T21:14:01-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/publication/zhao-2023-docmatheval/</loc>
-    <lastmod>2023-11-16T21:14:01-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/publication/zhang-2023-fair/</loc>
-    <lastmod>2023-11-15T17:55:19-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/tag/not_first_author/</loc>
-    <lastmod>2023-11-16T21:14:01-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ryokamoi.github.io/publication/kamoi-2021/</loc>
     <lastmod>2022-11-27T12:00:23-06:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -76,6 +72,10 @@
   </url><url>
     <loc>https://ryokamoi.github.io/post/2020-06-18/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/publication-type/3/</loc>
+    <lastmod>2022-11-27T12:00:23-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/endo-2020/</loc>
