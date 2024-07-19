@@ -21,10 +21,18 @@
     </item>
     
     <item>
+      <title>Direct-Inverse Prompting: Analyzing LLMs&#39; Discriminative Capacity in Self-Improving Generation</title>
+      <link>https://ryokamoi.github.io/publication/ahn-2024-directinverse/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/ahn-2024-directinverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs</title>
-      <link>https://ryokamoi.github.io/publication/kamoi2024self-correction/</link>
+      <link>https://ryokamoi.github.io/publication/kamoi-2024-self-correction/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://ryokamoi.github.io/publication/kamoi2024self-correction/</guid>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2024-self-correction/</guid>
       <description></description>
     </item>
     
@@ -108,7 +116,8 @@
       <link>https://ryokamoi.github.io/publication/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ryokamoi.github.io/publication/readme/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;academic import --bibtex content/publication/publications.bib --publication-dir content/publication
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;PATH&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$PATH&lt;/span&gt;:/Users/ryokamoi/go/bin
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;academic import --bibtex content/publication/publications.bib --publication-dir content/publication
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     

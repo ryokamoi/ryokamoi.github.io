@@ -5,7 +5,7 @@
     <link>https://ryokamoi.github.io/publication-type/3/</link>
       <atom:link href="https://ryokamoi.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Direct-Inverse Prompting: Analyzing LLMs&#39; Discriminative Capacity in Self-Improving Generation</title>
+      <link>https://ryokamoi.github.io/publication/ahn-2024-directinverse/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/ahn-2024-directinverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs</title>
-      <link>https://ryokamoi.github.io/publication/kamoi2024self-correction/</link>
+      <link>https://ryokamoi.github.io/publication/kamoi-2024-self-correction/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://ryokamoi.github.io/publication/kamoi2024self-correction/</guid>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2024-self-correction/</guid>
       <description></description>
     </item>
     
