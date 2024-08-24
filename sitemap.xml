@@ -23,11 +23,19 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/</loc>
-    <lastmod>2024-07-19T10:52:55-04:00</lastmod>
+    <lastmod>2024-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/tags/</loc>
     <lastmod>2024-07-19T10:52:55-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/post/</loc>
+    <lastmod>2024-08-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/post/2024-08-24-tacl/</loc>
+    <lastmod>2024-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication-type/3/</loc>
@@ -76,10 +84,6 @@
   </url><url>
     <loc>https://ryokamoi.github.io/tag/out-of-distribution-detection/</loc>
     <lastmod>2022-11-27T12:00:23-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/post/</loc>
-    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/post/2020-06-18/</loc>

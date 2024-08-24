@@ -5,12 +5,63 @@
     <link>https://ryokamoi.github.io/post/</link>
       <atom:link href="https://ryokamoi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Blog</title>
       <link>https://ryokamoi.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>TACL Submission Process (2024)</title>
+      <link>https://ryokamoi.github.io/post/2024-08-24-tacl/</link>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/post/2024-08-24-tacl/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;This is a note from my experience in 2024. Please check the latest information from the official TACL website.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The TACL submission process is a bit complex compared to recent conference submissions on OpenReview, but the editors (and editor assistants) are very helpful and responsive.&lt;/p&gt;
+&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We received the initial decision (B-decision) within two months after the initial submission&lt;/li&gt;
+&lt;li&gt;The revision process is very responsive and quick. I received responses in about one week for each revision (B-Decision revision and final submission).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;initial-submission&#34;&gt;Initial Submission&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Refer to &lt;a href=&#34;https://transacl.org/index.php/tacl/about/submissions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://transacl.org/index.php/tacl/about/submissions&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;From 2024, we can add appendices to the paper, but we can only include (1) experimental settings such as pre-processing decisions, model parameters, feature templates or (2) complementary results (images, tables).
+&lt;ul&gt;
+&lt;li&gt;Refer to &lt;a href=&#34;https://transacl.org/index.php/tacl/announcement/view/105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://transacl.org/index.php/tacl/announcement/view/105&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;(the LaTeX template is not updated for this new policy)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;From 2024, there is no anonymity period.&lt;/li&gt;
+&lt;li&gt;There is no embargo period in TACL &lt;a href=&#34;https://direct.mit.edu/journals/pages/authors#reprints&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://direct.mit.edu/journals/pages/authors#reprints&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;b-decision-revision&#34;&gt;B-decision Revision&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Most accepted papers receive B-decision (conditional accept) &lt;a href=&#34;https://www.aclweb.org/adminwiki/index.php/2022Q1_Reports:_TACL_Journal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.aclweb.org/adminwiki/index.php/2022Q1_Reports:_TACL_Journal&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;You will send an email with the revised version to the editors (&lt;strong&gt;not&lt;/strong&gt; on the submission system you use for the initial submission).&lt;/li&gt;
+&lt;li&gt;There is no official format for the cover letter. I just made it by myself.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;final-submission&#34;&gt;Final Submission&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Refer to &lt;a href=&#34;https://transacl.org/ojs/index.php/tacl/author/instructions/proof&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://transacl.org/ojs/index.php/tacl/author/instructions/proof&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The final version should not have any tables or figures in the first page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conference-presentation&#34;&gt;Conference Presentation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We can present TACL papers in the ACL conferences (optional).&lt;/li&gt;
+&lt;li&gt;Each conference has its deadline for the A-decision and final version submission. TACL does not guarantee the decisions before the conference deadlines.
+&lt;ul&gt;
+&lt;li&gt;Example: &lt;a href=&#34;https://transacl.org/ojs/index.php/tacl/announcement/view/109&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMNLP 2024 - TACL acceptance/final-version deadlines&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;After the final submission, editorial assistants will send you emails about the conference presentation after the conference deadlines.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>PyTorch Implementation of Influence Function</title>
