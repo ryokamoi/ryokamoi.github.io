@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ryokamoi.github.io/publication-type/1/</loc>
-    <lastmod>2024-06-04T11:45:10+09:00</lastmod>
+    <lastmod>2024-04-04T22:04:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/kamoi-2024-realmistake/</loc>
@@ -44,6 +44,10 @@
   </url><url>
     <loc>https://ryokamoi.github.io/publication/ahn-2024-directinverse/</loc>
     <lastmod>2024-07-19T10:52:55-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/publication-type/2/</loc>
+    <lastmod>2024-06-04T11:45:10+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/kamoi-2024-self-correction/</loc>
@@ -119,9 +123,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/admin/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/publication/readme/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/categories/</loc>
