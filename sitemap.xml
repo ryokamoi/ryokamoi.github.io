@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ryokamoi.github.io/event/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/talk/matsuo-iwasawa-lab-at-the-university-of-tokyo-llm%E8%AC%9B%E5%BA%A7-ja/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ryokamoi.github.io/publication-type/1/</loc>
     <lastmod>2024-04-04T22:04:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -20,10 +32,6 @@
   </url><url>
     <loc>https://ryokamoi.github.io/publication/</loc>
     <lastmod>2024-07-19T10:52:55-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/</loc>
-    <lastmod>2024-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/tags/</loc>
@@ -67,10 +75,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/talk/nlp-colloquium-nlp%E3%82%B3%E3%83%AD%E3%82%AD%E3%82%A6%E3%83%A0-ja/</loc>
-    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/event/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
