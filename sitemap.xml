@@ -2,15 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ryokamoi.github.io/publication-type/2/</loc>
+    <lastmod>2024-06-04T11:45:10+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/tag/nlp/</loc>
+    <lastmod>2024-10-31T13:02:13-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/publication_types/</loc>
+    <lastmod>2024-10-31T13:02:13-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/publication/</loc>
+    <lastmod>2024-10-31T13:02:13-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/</loc>
+    <lastmod>2024-10-31T13:02:13-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/tags/</loc>
+    <lastmod>2024-10-31T13:02:13-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/publication/kamoi-2024-self-correction/</loc>
+    <lastmod>2024-06-04T11:45:10+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/publication-type/3/</loc>
+    <lastmod>2024-10-31T13:02:13-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/publication/lou-2024-aaar-10/</loc>
+    <lastmod>2024-10-31T13:02:13-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ryokamoi.github.io/event/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/talk/matsuo-iwasawa-lab-at-the-university-of-tokyo-llm%E8%AC%9B%E5%BA%A7-ja/</loc>
-    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -22,22 +54,6 @@
     <lastmod>2024-04-04T22:04:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ryokamoi.github.io/tag/nlp/</loc>
-    <lastmod>2024-07-19T10:52:55-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/publication_types/</loc>
-    <lastmod>2024-07-19T10:52:55-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/publication/</loc>
-    <lastmod>2024-07-19T10:52:55-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/tags/</loc>
-    <lastmod>2024-07-19T10:52:55-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ryokamoi.github.io/post/</loc>
     <lastmod>2024-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -46,20 +62,8 @@
     <lastmod>2024-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ryokamoi.github.io/publication-type/3/</loc>
-    <lastmod>2024-07-19T10:52:55-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ryokamoi.github.io/publication/ahn-2024-directinverse/</loc>
     <lastmod>2024-07-19T10:52:55-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/publication-type/2/</loc>
-    <lastmod>2024-06-04T11:45:10+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/publication/kamoi-2024-self-correction/</loc>
-    <lastmod>2024-06-04T11:45:10+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/zhao-2023-docmatheval/</loc>

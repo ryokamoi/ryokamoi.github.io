@@ -5,12 +5,28 @@
     <link>https://ryokamoi.github.io/publication/</link>
       <atom:link href="https://ryokamoi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ryokamoi.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2024-self-correction/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2024-self-correction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AAAR-1.0: Assessing AI&#39;s Potential to Assist Research</title>
+      <link>https://ryokamoi.github.io/publication/lou-2024-aaar-10/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/lou-2024-aaar-10/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluating LLMs at Detecting Errors in LLM Responses</title>
@@ -25,14 +41,6 @@
       <link>https://ryokamoi.github.io/publication/ahn-2024-directinverse/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://ryokamoi.github.io/publication/ahn-2024-directinverse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs</title>
-      <link>https://ryokamoi.github.io/publication/kamoi-2024-self-correction/</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://ryokamoi.github.io/publication/kamoi-2024-self-correction/</guid>
       <description></description>
     </item>
     
