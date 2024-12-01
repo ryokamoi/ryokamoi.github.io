@@ -66,12 +66,32 @@
     <lastmod>2024-07-19T10:52:55-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ryokamoi.github.io/project/2024_realmistake/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/project/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/tag/survey/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ryokamoi.github.io/publication/zhao-2023-docmatheval/</loc>
     <lastmod>2023-11-16T21:14:01-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/zhang-2023-fair/</loc>
     <lastmod>2023-11-15T17:55:19-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/tag/dataset/</loc>
+    <lastmod>2024-04-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/project/2024_self-correction-survey/</loc>
+    <lastmod>2024-04-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/kamoi-2023-wice/</loc>
@@ -138,9 +158,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/project/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

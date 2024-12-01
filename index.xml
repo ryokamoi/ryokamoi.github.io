@@ -113,6 +113,14 @@
     </item>
     
     <item>
+      <title>Critical Survey of Self-Correction of LLMs</title>
+      <link>https://ryokamoi.github.io/project/2024_realmistake/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/project/2024_realmistake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DocMath-Eval: Evaluating Numerical Reasoning Capabilities of LLMs in Understanding Long Documents with Tabular Data</title>
       <link>https://ryokamoi.github.io/publication/zhao-2023-docmatheval/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
@@ -125,6 +133,14 @@
       <link>https://ryokamoi.github.io/publication/zhang-2023-fair/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://ryokamoi.github.io/publication/zhang-2023-fair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReaLMistake: Benchmark for Evaluating LLMs at Detecting Errors in LLM Responses</title>
+      <link>https://ryokamoi.github.io/project/2024_self-correction-survey/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/project/2024_self-correction-survey/</guid>
       <description></description>
     </item>
     

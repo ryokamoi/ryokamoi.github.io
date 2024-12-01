@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Ryo Kamoi</title>
-    <link>https://ryokamoi.github.io/project/</link>
-      <atom:link href="https://ryokamoi.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Survey | Ryo Kamoi</title>
+    <link>https://ryokamoi.github.io/tag/survey/</link>
+      <atom:link href="https://ryokamoi.github.io/tag/survey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Survey</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>https://ryokamoi.github.io/project/</link>
+      <title>Survey</title>
+      <link>https://ryokamoi.github.io/tag/survey/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://ryokamoi.github.io/project/2024_realmistake/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://ryokamoi.github.io/project/2024_realmistake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ReaLMistake: Benchmark for Evaluating LLMs at Detecting Errors in LLM Responses</title>
-      <link>https://ryokamoi.github.io/project/2024_self-correction-survey/</link>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://ryokamoi.github.io/project/2024_self-correction-survey/</guid>
       <description></description>
     </item>
     
