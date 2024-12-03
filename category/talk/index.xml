@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>talk | Ryo Kamoi</title>
+    <link>https://ryokamoi.github.io/category/talk/</link>
+      <atom:link href="https://ryokamoi.github.io/category/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>talk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>talk</title>
+      <link>https://ryokamoi.github.io/category/talk/</link>
+    </image>
+    
+    <item>
+      <title>Matsuo-Iwasawa Lab at the University of Tokyo (LLM講座, ja)</title>
+      <link>https://ryokamoi.github.io/talk/matsuo-iwasawa-lab-at-the-university-of-tokyo-llm%E8%AC%9B%E5%BA%A7-ja/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/talk/matsuo-iwasawa-lab-at-the-university-of-tokyo-llm%E8%AC%9B%E5%BA%A7-ja/</guid>
+      <description>&lt;p&gt;Lecture about self-correction of LLMs based on our survey paper &lt;a href=&#34;https://arxiv.org/abs/2406.01297&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs&amp;rdquo;
+&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;松尾・岩澤研究室の松尾研DL輪読会 x 大規模言語モデル講座の特別回として「LLMの自己修正 〜OpenAI o1の関連研究〜」と題してトークの機会をいただきました。動画およびスライドも公開していただきました。LLMの自己修正 (Self-Correction) をテーマとして、OpenAI o1に至るまでの推論時にLLMの出力を向上する技術を紹介しました。&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/rwtBR9ND1YI?si=xZY8Ls00xrXLZgiE&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;center&gt;
+&lt;script async class=&#34;docswell-embed&#34; src=&#34;https://www.docswell.com/assets/libs/docswell-embed/docswell-embed.min.js&#34; data-src=&#34;https://www.docswell.com/slide/ZP24ME/embed&#34; data-aspect=&#34;0.5625&#34;&gt;&lt;/script&gt;&lt;div class=&#34;docswell-link&#34;&gt;&lt;a href=&#34;https://www.docswell.com/s/matsuo-lab_llm/ZP24ME-2024-10-17-llm2024-kamoi-san&#34;&gt;2024Fall 大規模言語モデル(LLM)講座 特別回：LLMの自己修正〜OpenAI o1 の関連研究〜 by @matsuo-lab_llm&lt;/a&gt;&lt;/div&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NLP Colloquium (NLPコロキウム, ja)</title>
+      <link>https://ryokamoi.github.io/talk/nlp-colloquium-nlp%E3%82%B3%E3%83%AD%E3%82%AD%E3%82%A6%E3%83%A0-ja/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/talk/nlp-colloquium-nlp%E3%82%B3%E3%83%AD%E3%82%AD%E3%82%A6%E3%83%A0-ja/</guid>
+      <description>&lt;p&gt;Talk about our paper &lt;a href=&#34;https://aclanthology.org/2023.emnlp-main.470/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;WiCE: Real-World Entailment for Claims in Wikipedia&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/AZCphX7ycsc?si=NNPv-cc_85pBw70J&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nagoya NLP Seminar at Nagoya University (名古屋NLPセミナー, ja)</title>
+      <link>https://ryokamoi.github.io/talk/nagoya-nlp-seminar-at-nagoya-university-%E5%90%8D%E5%8F%A4%E5%B1%8Bnlp%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-ja/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/talk/nagoya-nlp-seminar-at-nagoya-university-%E5%90%8D%E5%8F%A4%E5%B1%8Bnlp%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-ja/</guid>
+      <description>&lt;p&gt;Talk about our papers &lt;a href=&#34;https://aclanthology.org/2023.eacl-main.11/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Shortcomings of Question Answering Based Factuality Frameworks for Error Localization&amp;rdquo;
+&lt;/a&gt; and &lt;a href=&#34;https://aclanthology.org/2023.emnlp-main.470/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;WiCE: Real-World Entailment for Claims in Wikipedia&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1YXcigqAiG-uV-NiDG2Ini-G_2Vfz3Xrp/preview&#34; width=&#34;640&#34; height=&#34;480&#34; &gt;&lt;/iframe&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
