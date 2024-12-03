@@ -5,12 +5,20 @@
     <link>https://ryokamoi.github.io/tag/dataset/</link>
       <atom:link href="https://ryokamoi.github.io/tag/dataset/index.xml" rel="self" type="application/rss+xml" />
     <description>Dataset</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Dataset</title>
       <link>https://ryokamoi.github.io/tag/dataset/</link>
     </image>
+    
+    <item>
+      <title>VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information</title>
+      <link>https://ryokamoi.github.io/project/2024_visonlyqa/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/project/2024_visonlyqa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ReaLMistake: Benchmark for Evaluating LLMs at Detecting Errors in LLM Responses</title>

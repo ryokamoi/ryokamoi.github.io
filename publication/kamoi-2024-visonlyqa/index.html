@@ -316,12 +316,12 @@
 
   
 
-<meta name="description" content="Ryo Kamoi is a Ph.D. student at Penn State University working on Natural Language Processing." />
+<meta name="description" content="" />
 
 
 
-<link rel="alternate" hreflang="ja-Jp" href="https://ryokamoi.github.io/project/" />
-<link rel="canonical" href="https://ryokamoi.github.io/project/" />
+<link rel="alternate" hreflang="ja-Jp" href="https://ryokamoi.github.io/publication/kamoi-2024-visonlyqa/" />
+<link rel="canonical" href="https://ryokamoi.github.io/publication/kamoi-2024-visonlyqa/" />
 
 
 
@@ -357,37 +357,84 @@
   <meta property="twitter:creator" content="@ryokamoi" />
 <meta property="twitter:image" content="https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="Ryo Kamoi" />
-<meta property="og:url" content="https://ryokamoi.github.io/project/" />
-<meta property="og:title" content="Projects | Ryo Kamoi" />
-<meta property="og:description" content="Ryo Kamoi is a Ph.D. student at Penn State University working on Natural Language Processing." /><meta property="og:image" content="https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="ja-Jp" />
+<meta property="og:url" content="https://ryokamoi.github.io/publication/kamoi-2024-visonlyqa/" />
+<meta property="og:title" content="VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information | Ryo Kamoi" />
+<meta property="og:description" content="" /><meta property="og:image" content="https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="ja-Jp" />
 
   
-    <meta property="og:updated_time" content="2024-12-01T00:00:00&#43;00:00" />
-  
-
-
-
-
-
-
-
-
-
-
+    <meta
+      property="article:published_time"
+      content="2024-12-03T02:38:32&#43;00:00"
+    />
   
   
-  
-
-  
-  
-    <link rel="alternate" href="/project/index.xml" type="application/rss+xml" title="Ryo Kamoi" />
-  
-
+    <meta property="article:modified_time" content="2024-12-02T21:38:32-05:00">
   
 
 
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://ryokamoi.github.io/publication/kamoi-2024-visonlyqa/"
+  },
+  "headline": "VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information",
   
-  <title>Projects | Ryo Kamoi</title>
+  "datePublished": "2024-12-03T02:38:32Z",
+  "dateModified": "2024-12-02T21:38:32-05:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Ryo Kamoi"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Ryo Kamoi",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": ""
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information | Ryo Kamoi</title>
 
   
   
@@ -407,7 +454,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="1b7f62207d2617f7491785ce1c71e57f" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="91fe4f2610c9410659375df79c7c4db6" >
 
   
   
@@ -535,7 +582,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/publication"><span>Publications</span></a>
+            <a class="nav-link  active" href="/publication"><span>Publications</span></a>
           </li>
 
           
@@ -667,6 +714,17 @@
 
 
 
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
 
 
 
@@ -677,261 +735,331 @@
   
   
   
-    
-  
-<div class="universal-wrapper pt-3">
-  <h1>Projects</h1>
+<div class="article-container pt-3">
+  <h1>VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information</h1>
 
   
 
-  
-</div>
-
-
-
-<div class="universal-wrapper">
-  
-    <div class="article-style"><!-- 
-
-<details class="toc-inpage d-print-none  " open>
-  <summary class="font-weight-bold">Table of Contents</summary>
-  <nav id="TableOfContents"></nav>
-</details>
-
-
-## Detecting and Correcting Mistakes in LLM Responses
-
-### When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs (TACL, 2024)
-
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">📢 New survey on Self-Correction of LLMs!<br>😢 LLMs often cannot correct their mistakes by prompting themselves<br>😢 Many studies conduct unfair experiments<br>😃 We analyze requirements for self-correction🧵<a href="https://twitter.com/YusenZhangNLP?ref_src=twsrc%5Etfw">@YusenZhangNLP</a> <a href="https://twitter.com/NanZhangNLP?ref_src=twsrc%5Etfw">@NanZhangNLP</a> Jiawei Han <a href="https://twitter.com/ruizhang_nlp?ref_src=twsrc%5Etfw">@ruizhang_nlp</a><a href="https://t.co/fqbWkyKCGf">https://t.co/fqbWkyKCGf</a> <a href="https://t.co/A9ptzJYcp8">pic.twitter.com/A9ptzJYcp8</a></p>&mdash; Ryo Kamoi (@RyoKamoi) <a href="https://twitter.com/RyoKamoi/status/1798369441509777847?ref_src=twsrc%5Etfw">June 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-### Evaluating LLMs at Detecting Errors in LLM Responses (COLM 2024)
-
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">📢 New Preprint! Can LLMs detect mistakes in LLM responses?<br>We introduce ReaLMistake, error detection benchmark with errors by GPT-4 &amp; Llama 2.<br>Evaluated 12 LLMs and showed LLM-based error detectors are unreliable!<a href="https://twitter.com/ruizhang_nlp?ref_src=twsrc%5Etfw">@ruizhang_nlp</a> <a href="https://twitter.com/Wenpeng_Yin?ref_src=twsrc%5Etfw">@Wenpeng_Yin</a> <a href="https://twitter.com/armancohan?ref_src=twsrc%5Etfw">@armancohan</a> +<a href="https://t.co/ehlXKbTdXO">https://t.co/ehlXKbTdXO</a> <a href="https://t.co/NjiOXrQcBH">pic.twitter.com/NjiOXrQcBH</a></p>&mdash; Ryo Kamoi (@RyoKamoi) <a href="https://twitter.com/RyoKamoi/status/1776270166856458682?ref_src=twsrc%5Etfw">April 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Fact Verification
-
-### WiCE: Real-World Entailment for Claims in Wikipedia (EMNLP 2023)
-
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">New dataset for Doc-level NLI!<br>Looking for a dataset with realistic claims and premises? Check out WiCE! WiCE annotates claims in Wikipedia with entailment labels wrt cited articles.<br><br>w/ <a href="https://twitter.com/tanyaagoyal?ref_src=twsrc%5Etfw">@tanyaagoyal</a> <a href="https://twitter.com/juand_r_nlp?ref_src=twsrc%5Etfw">@juand_r_nlp</a> <a href="https://twitter.com/gregd_nlp?ref_src=twsrc%5Etfw">@gregd_nlp</a><a href="https://t.co/5iBKndhwf0">https://t.co/5iBKndhwf0</a><br>data: <a href="https://t.co/cfZrctyKQe">https://t.co/cfZrctyKQe</a><br>1/ <a href="https://t.co/04c1kz6UBq">pic.twitter.com/04c1kz6UBq</a></p>&mdash; Ryo Kamoi (@RyoKamoi) <a href="https://twitter.com/RyoKamoi/status/1633135168964935680?ref_src=twsrc%5Etfw">March 7, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-### Shortcomings of Question Answering Based Factuality Frameworks for Error Localization (EACL 2023)
-
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">New preprint<br>QA metrics are quite popular in factuality eval, in part because it&#39;s believed that they are interpretable and can localize errors. We show that this is *not* true! Their localization is worse than simple exact match!<a href="https://t.co/bA90PK8tKl">https://t.co/bA90PK8tKl</a><br>w <a href="https://twitter.com/tanyaagoyal?ref_src=twsrc%5Etfw">@tanyaagoyal</a> <a href="https://twitter.com/gregd_nlp?ref_src=twsrc%5Etfw">@gregd_nlp</a> <a href="https://t.co/Lyo2RT1RIc">pic.twitter.com/Lyo2RT1RIc</a></p>&mdash; Ryo Kamoi (@RyoKamoi) <a href="https://twitter.com/RyoKamoi/status/1580714714103181313?ref_src=twsrc%5Etfw">October 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-</div>
-  
-
-
-  
-
-  
   
     
 
 
-
-
-
+<div class="article-metadata">
 
   
   
-
-
   
-
-
-
-
-
-
-
   
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="https://github.com/psunlpgroup/VisOnlyQA" target="_blank" rel="noopener">VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information</a>
-    </div>
-
-    
-    <a href="https://github.com/psunlpgroup/VisOnlyQA" target="_blank" rel="noopener" class="summary-link">
-      <div class="article-style">
-        Benchmark for evaluating LVLMs on visual perception questions on scientific figures.
-      </div>
-    </a>
+  <div>
     
 
-    <div class="stream-meta article-metadata">
+  <span >
+      Ryo Kamoi</span>, <span >
+      Yusen Zhang</span>, <span >
+      Sarkar Snigdha Sarathi Das</span>, <span >
+      Ranran Haoran Zhang</span>, <span >
+      Rui Zhang</span>
+  </div>
+  
+  
 
+  
+  <span class="article-date">
+    
+    
       
-      <div>
-        <span>
-          Dec 1, 2024
-        </span>
+    
+    December, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2412.00947" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/kamoi-2024-visonlyqa/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#3">
+              Preprint
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>arXiv preprint arXiv:2412.00947</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
         
-      </div>
       
-
       
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fryokamoi.github.io%2Fpublication%2Fkamoi-2024-visonlyqa%2F&amp;text=VisOnlyQA%3A&#43;Large&#43;Vision&#43;Language&#43;Models&#43;Still&#43;Struggle&#43;with&#43;Visual&#43;Perception&#43;of&#43;Geometric&#43;Information" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
       
-      <a href="https://github.com/psunlpgroup/VisOnlyQA" target="_blank" rel="noopener">
-        <img src="/project/2024_visonlyqa/featured_hu0b712d4d4160fae402f43444a7e5792b_3973991_150x0_resize_q75_h2_lanczos_3.webp" height="80" width="150"
-            alt="VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information" loading="lazy">
-      </a>
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-  
-  
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="https://github.com/ryokamoi/llm-self-correction-papers" target="_blank" rel="noopener">Critical Survey of Self-Correction of LLMs</a>
-    </div>
-
-    
-    <a href="https://github.com/ryokamoi/llm-self-correction-papers" target="_blank" rel="noopener" class="summary-link">
-      <div class="article-style">
-        We critically survey broad papers and discuss the conditions required for successful self-correction.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
       
-      <div>
-        <span>
-          Jun 3, 2024
-        </span>
+      
         
-      </div>
       
-
       
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fryokamoi.github.io%2Fpublication%2Fkamoi-2024-visonlyqa%2F&amp;t=VisOnlyQA%3A&#43;Large&#43;Vision&#43;Language&#43;Models&#43;Still&#43;Struggle&#43;with&#43;Visual&#43;Perception&#43;of&#43;Geometric&#43;Information" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
     
       
-      <a href="https://github.com/ryokamoi/llm-self-correction-papers" target="_blank" rel="noopener">
-        <img src="/project/2024_realmistake/featured_hu77ac07fbbe15d4b6d32ddfde824c1b19_260573_150x0_resize_q75_h2_lanczos_3.webp" height="77" width="150"
-            alt="Critical Survey of Self-Correction of LLMs" loading="lazy">
-      </a>
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-  
-  
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="https://github.com/psunlpgroup/ReaLMistake" target="_blank" rel="noopener">ReaLMistake: Benchmark for Evaluating LLMs at Detecting Errors in LLM Responses</a>
-    </div>
-
-    
-    <a href="https://github.com/psunlpgroup/ReaLMistake" target="_blank" rel="noopener" class="summary-link">
-      <div class="article-style">
-        Benchmark including errors in responses of GPT-4 and Llama 2 70B annotated by experts.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
       
-      <div>
-        <span>
-          Apr 4, 2024
-        </span>
+      
         
-      </div>
       
-
       
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=VisOnlyQA%3A%20Large%20Vision%20Language%20Models%20Still%20Struggle%20with%20Visual%20Perception%20of%20Geometric%20Information&amp;body=https%3A%2F%2Fryokamoi.github.io%2Fpublication%2Fkamoi-2024-visonlyqa%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
     
       
-      <a href="https://github.com/psunlpgroup/ReaLMistake" target="_blank" rel="noopener">
-        <img src="/project/2024_self-correction-survey/featured_hu33ad56fce67b3808f313bdf4ab01e08e_746083_150x0_resize_q75_h2_lanczos_3.webp" height="59" width="150"
-            alt="ReaLMistake: Benchmark for Evaluating LLMs at Detecting Errors in LLM Responses" loading="lazy">
-      </a>
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fryokamoi.github.io%2Fpublication%2Fkamoi-2024-visonlyqa%2F&amp;title=VisOnlyQA%3A&#43;Large&#43;Vision&#43;Language&#43;Models&#43;Still&#43;Struggle&#43;with&#43;Visual&#43;Perception&#43;of&#43;Geometric&#43;Information" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
     
-  </div>
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=VisOnlyQA%3A&#43;Large&#43;Vision&#43;Language&#43;Models&#43;Still&#43;Struggle&#43;with&#43;Visual&#43;Perception&#43;of&#43;Geometric&#43;Information%20https%3A%2F%2Fryokamoi.github.io%2Fpublication%2Fkamoi-2024-visonlyqa%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fryokamoi.github.io%2Fpublication%2Fkamoi-2024-visonlyqa%2F&amp;title=VisOnlyQA%3A&#43;Large&#43;Vision&#43;Language&#43;Models&#43;Still&#43;Struggle&#43;with&#43;Visual&#43;Perception&#43;of&#43;Geometric&#43;Information" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
 </div>
 
+
+
+
+
+
+
+
+
+
+
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
 
   
 
-  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
 </div>
   </div>
 
