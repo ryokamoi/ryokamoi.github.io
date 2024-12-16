@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CV | Ryo Kamoi</title>
+    <link>https://ryokamoi.github.io/tag/cv/</link>
+      <atom:link href="https://ryokamoi.github.io/tag/cv/index.xml" rel="self" type="application/rss+xml" />
+    <description>CV</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>CV</title>
+      <link>https://ryokamoi.github.io/tag/cv/</link>
+    </image>
+    
+    <item>
+      <title>VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2024-visonlyqa/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2024-visonlyqa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
