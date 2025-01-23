@@ -2,32 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ryokamoi.github.io/publication-type/3/</loc>
-    <lastmod>2024-12-16T10:07:03-05:00</lastmod>
+    <loc>https://ryokamoi.github.io/publication-type/1/</loc>
+    <lastmod>2025-01-23T08:55:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/das-2024-greater/</loc>
-    <lastmod>2024-12-16T10:07:03-05:00</lastmod>
+    <lastmod>2025-01-23T08:55:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/tag/nlp/</loc>
-    <lastmod>2024-12-16T10:07:03-05:00</lastmod>
+    <lastmod>2025-01-23T08:55:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication_types/</loc>
-    <lastmod>2024-12-16T10:07:03-05:00</lastmod>
+    <lastmod>2025-01-23T08:55:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/</loc>
-    <lastmod>2024-12-16T10:07:03-05:00</lastmod>
+    <lastmod>2025-01-23T08:55:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/</loc>
-    <lastmod>2024-12-16T10:07:03-05:00</lastmod>
+    <lastmod>2025-01-23T08:55:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/tags/</loc>
-    <lastmod>2024-12-16T10:07:03-05:00</lastmod>
+    <lastmod>2025-01-23T08:55:25-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/publication-type/3/</loc>
+    <lastmod>2024-12-02T21:38:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/tag/cv/</loc>
@@ -76,10 +80,6 @@
   </url><url>
     <loc>https://ryokamoi.github.io/category/talk/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/publication-type/1/</loc>
-    <lastmod>2024-04-04T22:04:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/kamoi-2024-realmistake/</loc>

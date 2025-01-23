@@ -5,7 +5,7 @@
     <link>https://ryokamoi.github.io/publication/</link>
       <atom:link href="https://ryokamoi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryokamoi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>GReaTer: Gradients over Reasoning Makes Smaller Language Models Strong Prompt Optimizers</title>
+      <title>GReaTer: Gradients Over Reasoning Makes Smaller Language Models Strong Prompt Optimizers</title>
       <link>https://ryokamoi.github.io/publication/das-2024-greater/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://ryokamoi.github.io/publication/das-2024-greater/</guid>
       <description></description>
     </item>
