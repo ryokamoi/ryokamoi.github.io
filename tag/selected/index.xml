@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>selected | Ryo Kamoi</title>
+    <link>https://ryokamoi.github.io/tag/selected/</link>
+      <atom:link href="https://ryokamoi.github.io/tag/selected/index.xml" rel="self" type="application/rss+xml" />
+    <description>selected</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryokamoi.github.io/media/icon_hu950cef8d35da75ba4291b7d869913abc_1301_512x512_fill_lanczos_center_3.png</url>
+      <title>selected</title>
+      <link>https://ryokamoi.github.io/tag/selected/</link>
+    </image>
+    
+    <item>
+      <title>VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2024-visonlyqa/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2024-visonlyqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2024-self-correction/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2024-self-correction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating LLMs at Detecting Errors in LLM Responses</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2024-realmistake/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2024-realmistake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WiCE: Real-World Entailment for Claims in Wikipedia</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2023-wice/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2023-wice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcomings of Question Answering Based Factuality Frameworks for Error Localization</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2023-shortcomings/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2023-shortcomings/</guid>
+      <description>&lt;center&gt;
+&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRa3mXlMDHwAhIyukOXESmFNbzmXhXLVulYwsW4OiUAe5446cVKoBW8es6-uOEqKNprJv2Sdp_BZs1j/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;480&#34; height=&#34;299&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why is the Mahalanobis Distance Effective for Anomaly Detection?</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2020-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
