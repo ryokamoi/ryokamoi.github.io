@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Ryo Kamoi</title>
-    <link>https://ryokamoi.github.io/project/</link>
-      <atom:link href="https://ryokamoi.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>project-toppage | Ryo Kamoi</title>
+    <link>https://ryokamoi.github.io/category/project-toppage/</link>
+      <atom:link href="https://ryokamoi.github.io/category/project-toppage/index.xml" rel="self" type="application/rss+xml" />
+    <description>project-toppage</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryokamoi.github.io/media/icon_hu950cef8d35da75ba4291b7d869913abc_1301_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>https://ryokamoi.github.io/project/</link>
+      <title>project-toppage</title>
+      <link>https://ryokamoi.github.io/category/project-toppage/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://ryokamoi.github.io/project/2025_fover/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       <guid>https://ryokamoi.github.io/project/2025_fover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VisOnlyQA: LVLMs Still Struggle with Visual Perception of Geometric Information (2025)</title>
-      <link>https://ryokamoi.github.io/project/2024_visonlyqa/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://ryokamoi.github.io/project/2024_visonlyqa/</guid>
       <description></description>
     </item>
     

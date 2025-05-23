@@ -5,12 +5,20 @@
     <link>https://ryokamoi.github.io/</link>
       <atom:link href="https://ryokamoi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryo Kamoi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryokamoi.github.io/media/icon_hu950cef8d35da75ba4291b7d869913abc_1301_512x512_fill_lanczos_center_3.png</url>
       <title>Ryo Kamoi</title>
       <link>https://ryokamoi.github.io/</link>
     </image>
+    
+    <item>
+      <title>FoVer: Training PRMs with Formal Verification Tools (2025)</title>
+      <link>https://ryokamoi.github.io/project/2025_fover/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/project/2025_fover/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GReaTer: Gradients Over Reasoning Makes Smaller Language Models Strong Prompt Optimizers</title>
@@ -37,7 +45,7 @@
     </item>
     
     <item>
-      <title>VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information</title>
+      <title>VisOnlyQA: LVLMs Still Struggle with Visual Perception of Geometric Information (2025)</title>
       <link>https://ryokamoi.github.io/project/2024_visonlyqa/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://ryokamoi.github.io/project/2024_visonlyqa/</guid>
@@ -145,10 +153,10 @@
     </item>
     
     <item>
-      <title>Critical Survey of Self-Correction of LLMs</title>
-      <link>https://ryokamoi.github.io/project/2024_realmistake/</link>
+      <title>Critical Survey of Self-Correction of LLMs (TACL 2024)</title>
+      <link>https://ryokamoi.github.io/project/2024_self-correction-survey/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://ryokamoi.github.io/project/2024_realmistake/</guid>
+      <guid>https://ryokamoi.github.io/project/2024_self-correction-survey/</guid>
       <description></description>
     </item>
     
@@ -169,10 +177,10 @@
     </item>
     
     <item>
-      <title>ReaLMistake: Benchmark for Evaluating LLMs at Detecting Errors in LLM Responses</title>
-      <link>https://ryokamoi.github.io/project/2024_self-correction-survey/</link>
+      <title>ReaLMistake: Evaluating LLMs at Detecting Errors in LLM Responses (COLM 2024)</title>
+      <link>https://ryokamoi.github.io/project/2024_realmistake/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://ryokamoi.github.io/project/2024_self-correction-survey/</guid>
+      <guid>https://ryokamoi.github.io/project/2024_realmistake/</guid>
       <description></description>
     </item>
     

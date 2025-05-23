@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ryokamoi.github.io/categories/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/project/2025_fover/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/tag/model/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/category/project-toppage/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/project/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/</loc>
+    <lastmod>2025-05-23T01:21:50-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/tags/</loc>
+    <lastmod>2025-05-23T01:21:50-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ryokamoi.github.io/publication-type/1/</loc>
     <lastmod>2025-01-23T08:55:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -26,15 +54,7 @@
     <lastmod>2025-05-23T01:21:50-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ryokamoi.github.io/</loc>
-    <lastmod>2025-05-23T01:21:50-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ryokamoi.github.io/tag/selected/</loc>
-    <lastmod>2025-05-23T01:21:50-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/tags/</loc>
     <lastmod>2025-05-23T01:21:50-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -54,10 +74,6 @@
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ryokamoi.github.io/project/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ryokamoi.github.io/project/2024_visonlyqa/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -72,10 +88,6 @@
   </url><url>
     <loc>https://ryokamoi.github.io/publication/lou-2024-aaar-10/</loc>
     <lastmod>2024-10-31T13:02:13-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/categories/</loc>
-    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/event/</loc>
@@ -106,7 +118,7 @@
     <lastmod>2024-07-19T10:52:55-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ryokamoi.github.io/project/2024_realmistake/</loc>
+    <loc>https://ryokamoi.github.io/project/2024_self-correction-survey/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -122,7 +134,7 @@
     <lastmod>2023-11-15T17:55:19-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ryokamoi.github.io/project/2024_self-correction-survey/</loc>
+    <loc>https://ryokamoi.github.io/project/2024_realmistake/</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
