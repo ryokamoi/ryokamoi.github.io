@@ -21,6 +21,35 @@
     </item>
     
     <item>
+      <title>arXiv Submission Process (2025)</title>
+      <link>https://ryokamoi.github.io/post/2025-07-13-arxiv/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/post/2025-07-13-arxiv/</guid>
+      <description>&lt;p&gt;This post explains the arXiv submission process for who write papers using Overleaf.&lt;/p&gt;
+&lt;h2 id=&#34;arxiv-latex-cleaner&#34;&gt;arXiv LaTeX Cleaner&lt;/h2&gt;
+&lt;p&gt;I recommend to submit the LaTeX source files to arXiv, instead of just submitting the PDF. This allows readers to download the source files and also arXiv will generate the HTML version of the paper.&lt;/p&gt;
+&lt;p&gt;However, you may want to remove comments and unnecessary files from the source files before uploading them to arXiv. To clean the LaTeX source files, I recommend using the &lt;a href=&#34;https://github.com/google-research/arxiv-latex-cleaner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;google-research/arxiv-latex-cleaner&lt;/a&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Download the source files from Overleaf: Menu &amp;gt; Download &amp;gt; Source&lt;/li&gt;
+&lt;li&gt;Unzip the downloaded file.&lt;/li&gt;
+&lt;li&gt;Run the cleaner script: &lt;code&gt;arxiv_latex_cleaner folder_name&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;download-bbl&#34;&gt;Download bbl&lt;/h2&gt;
+&lt;p&gt;arXiv requires the &lt;code&gt;.bbl&lt;/code&gt; file to be included in the source files. However, Overleaf does not include the &lt;code&gt;.bbl&lt;/code&gt; file in the source files by default. You can download the &lt;code&gt;.bbl&lt;/code&gt; file from Overleaf by following these steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open the log window from the file icon to the right of the Recompile button.&lt;/li&gt;
+&lt;li&gt;Go down to the bottom and find the &amp;ldquo;Other logs and output files&amp;rdquo; button.&lt;/li&gt;
+&lt;li&gt;Click the button and find the &lt;code&gt;.bbl&lt;/code&gt; file.&lt;/li&gt;
+&lt;li&gt;Download the &lt;code&gt;.bbl&lt;/code&gt; file and place it in the same folder as the other source files. You may need to rename the file.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Now you can zip the cleaned source files and upload them to arXiv!&lt;/p&gt;
+&lt;h2 id=&#34;latex-abstract-cleaner&#34;&gt;LaTeX Abstract Cleaner&lt;/h2&gt;
+&lt;p&gt;I made a simple script to clean the abstract for arXiv submission: &lt;a href=&#34;https://github.com/ryokamoi/latex_abstract_cleaner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ryokamoi/latex_abstract_cleaner&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It removes the LaTeX commands and special characters from the abstract, so you can copy and paste it into the arXiv submission form.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>FoVer: Training PRMs with Formal Verification Tools (2025)</title>
       <link>https://ryokamoi.github.io/project/2025_fover/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
