@@ -25,7 +25,7 @@
       <link>https://ryokamoi.github.io/post/2025-07-13-arxiv/</link>
       <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://ryokamoi.github.io/post/2025-07-13-arxiv/</guid>
-      <description>&lt;p&gt;This post explains the arXiv submission process for who write papers using Overleaf.&lt;/p&gt;
+      <description>&lt;p&gt;This post explains the arXiv submission process for those writing papers using Overleaf.&lt;/p&gt;
 &lt;h2 id=&#34;arxiv-latex-cleaner&#34;&gt;arXiv LaTeX Cleaner&lt;/h2&gt;
 &lt;p&gt;I recommend to submit the LaTeX source files to arXiv, instead of just submitting the PDF. This allows readers to download the source files and also arXiv will generate the HTML version of the paper.&lt;/p&gt;
 &lt;p&gt;However, you may want to remove comments and unnecessary files from the source files before uploading them to arXiv. To clean the LaTeX source files, I recommend using the &lt;a href=&#34;https://github.com/google-research/arxiv-latex-cleaner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;google-research/arxiv-latex-cleaner&lt;/a&gt;.&lt;/p&gt;
