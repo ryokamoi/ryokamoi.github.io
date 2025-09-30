@@ -50,10 +50,18 @@
     </item>
     
     <item>
-      <title>FoVer: Training PRMs with Formal Verification Tools (2025)</title>
+      <title>FoVer: Generalizable Process Reward Models via Formally Verified Training Data (2025)</title>
       <link>https://ryokamoi.github.io/project/2025_fover/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       <guid>https://ryokamoi.github.io/project/2025_fover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalizable Process Reward Models via Formally Verified Training Data</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2025-fover/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2025-fover/</guid>
       <description></description>
     </item>
     
@@ -62,14 +70,6 @@
       <link>https://ryokamoi.github.io/publication/das-2024-greater/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://ryokamoi.github.io/publication/das-2024-greater/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training Step-Level Reasoning Verifiers with Formal Verification Tools</title>
-      <link>https://ryokamoi.github.io/publication/kamoi-2025-fover/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://ryokamoi.github.io/publication/kamoi-2025-fover/</guid>
       <description></description>
     </item>
     

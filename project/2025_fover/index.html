@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: August 27, 2025 --><html lang="ja-Jp" >
+<!-- Last Published: September 30, 2025 --><html lang="ja-Jp" >
 
 
 <head>
@@ -316,7 +316,7 @@
 
   
 
-<meta name="description" content="Process Reward Models (PRMs) provide step-level verification to LLM reasoning. However, collecting accurate step-level labels for training PRMs is a bottleneck. We propose FoVer, an approach to use formal verification tools like Z3 and Isabelle to &lt;span class=&#34;highlighted-text&#34;&gt;automatically annotate step-level error labels&lt;/span&gt; on LLM responses &lt;span class=&#34;highlighted-text&#34;&gt;without relying on human annotation&lt;/span&gt;. This data synthesis is feasible only for tasks compatible with these tools, but our training data improves LLM-based PRMs over broad reasoning tasks." />
+<meta name="description" content="Process Reward Models (PRMs) provide step-level verification to LLM reasoning. However, prior work rely on training data with human annotated labels or noisy labels. We propose FoVer, a novel method to create PRM training data by using formal verification tools like Z3 and Isabelle. &lt;span class=&#34;highlighted-text&#34;&gt;FoVer is the first method that creates accurate PRM training data without relying on human annotation&lt;/span&gt;. FoVer creates PRM training data using symbolic tasks compatible with formal verification tools, but FoVer improves LLM-based PRMs over broad reasoning tasks." />
 
 
 
@@ -357,8 +357,8 @@
 <meta property="twitter:image" content="https://ryokamoi.github.io/project/2025_fover/featured.png" />
 <meta property="og:site_name" content="Ryo Kamoi" />
 <meta property="og:url" content="https://ryokamoi.github.io/project/2025_fover/" />
-<meta property="og:title" content="FoVer: Training PRMs with Formal Verification Tools (2025) | Ryo Kamoi" />
-<meta property="og:description" content="Process Reward Models (PRMs) provide step-level verification to LLM reasoning. However, collecting accurate step-level labels for training PRMs is a bottleneck. We propose FoVer, an approach to use formal verification tools like Z3 and Isabelle to &lt;span class=&#34;highlighted-text&#34;&gt;automatically annotate step-level error labels&lt;/span&gt; on LLM responses &lt;span class=&#34;highlighted-text&#34;&gt;without relying on human annotation&lt;/span&gt;. This data synthesis is feasible only for tasks compatible with these tools, but our training data improves LLM-based PRMs over broad reasoning tasks." /><meta property="og:image" content="https://ryokamoi.github.io/project/2025_fover/featured.png" /><meta property="og:locale" content="ja-Jp" />
+<meta property="og:title" content="FoVer: Generalizable Process Reward Models via Formally Verified Training Data (2025) | Ryo Kamoi" />
+<meta property="og:description" content="Process Reward Models (PRMs) provide step-level verification to LLM reasoning. However, prior work rely on training data with human annotated labels or noisy labels. We propose FoVer, a novel method to create PRM training data by using formal verification tools like Z3 and Isabelle. &lt;span class=&#34;highlighted-text&#34;&gt;FoVer is the first method that creates accurate PRM training data without relying on human annotation&lt;/span&gt;. FoVer creates PRM training data using symbolic tasks compatible with formal verification tools, but FoVer improves LLM-based PRMs over broad reasoning tasks." /><meta property="og:image" content="https://ryokamoi.github.io/project/2025_fover/featured.png" /><meta property="og:locale" content="ja-Jp" />
 
   
     <meta
@@ -390,7 +390,7 @@
     "@type": "WebPage",
     "@id": "https://ryokamoi.github.io/project/2025_fover/"
   },
-  "name": "FoVer: Training PRMs with Formal Verification Tools (2025)",
+  "name": "FoVer: Generalizable Process Reward Models via Formally Verified Training Data (2025)",
   
   
   "image": [
@@ -405,7 +405,7 @@
     "name": "Ryo Kamoi"
   },
   
-  "description": "Process Reward Models (PRMs) provide step-level verification to LLM reasoning. However, collecting accurate step-level labels for training PRMs is a bottleneck. We propose FoVer, an approach to use formal verification tools like Z3 and Isabelle to \u003cspan class=\"highlighted-text\"\u003eautomatically annotate step-level error labels\u003c/span\u003e on LLM responses \u003cspan class=\"highlighted-text\"\u003ewithout relying on human annotation\u003c/span\u003e. This data synthesis is feasible only for tasks compatible with these tools, but our training data improves LLM-based PRMs over broad reasoning tasks."
+  "description": "Process Reward Models (PRMs) provide step-level verification to LLM reasoning. However, prior work rely on training data with human annotated labels or noisy labels. We propose FoVer, a novel method to create PRM training data by using formal verification tools like Z3 and Isabelle. \u003cspan class=\"highlighted-text\"\u003eFoVer is the first method that creates accurate PRM training data without relying on human annotation\u003c/span\u003e. FoVer creates PRM training data using symbolic tasks compatible with formal verification tools, but FoVer improves LLM-based PRMs over broad reasoning tasks."
 }
 </script>
 
@@ -425,7 +425,7 @@
 
 
   
-  <title>FoVer: Training PRMs with Formal Verification Tools (2025) | Ryo Kamoi</title>
+  <title>FoVer: Generalizable Process Reward Models via Formally Verified Training Data (2025) | Ryo Kamoi</title>
 
   
   
@@ -800,7 +800,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>FoVer: Training PRMs with Formal Verification Tools (2025)</h1>
+  <h1>FoVer: Generalizable Process Reward Models via Formally Verified Training Data (2025)</h1>
 
   
 
@@ -876,9 +876,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 301px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 282px;">
   <div style="position: relative">
-    <img src="/project/2025_fover/featured_hu1c88e54a3ba87cb3ff7b26bc0f1bb0d5_251429_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="301" alt="" class="featured-image">
+    <img src="/project/2025_fover/featured_hua78d02c1bce48544608e12c4ed89ee57_474035_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="282" alt="" class="featured-image">
     
   </div>
 </div>
@@ -944,7 +944,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fryokamoi.github.io%2Fproject%2F2025_fover%2F&amp;text=FoVer%3A&#43;Training&#43;PRMs&#43;with&#43;Formal&#43;Verification&#43;Tools&#43;%282025%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fryokamoi.github.io%2Fproject%2F2025_fover%2F&amp;text=FoVer%3A&#43;Generalizable&#43;Process&#43;Reward&#43;Models&#43;via&#43;Formally&#43;Verified&#43;Training&#43;Data&#43;%282025%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -961,7 +961,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fryokamoi.github.io%2Fproject%2F2025_fover%2F&amp;t=FoVer%3A&#43;Training&#43;PRMs&#43;with&#43;Formal&#43;Verification&#43;Tools&#43;%282025%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fryokamoi.github.io%2Fproject%2F2025_fover%2F&amp;t=FoVer%3A&#43;Generalizable&#43;Process&#43;Reward&#43;Models&#43;via&#43;Formally&#43;Verified&#43;Training&#43;Data&#43;%282025%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -980,7 +980,7 @@
         
       
       <li>
-        <a href="mailto:?subject=FoVer%3A%20Training%20PRMs%20with%20Formal%20Verification%20Tools%20%282025%29&amp;body=https%3A%2F%2Fryokamoi.github.io%2Fproject%2F2025_fover%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=FoVer%3A%20Generalizable%20Process%20Reward%20Models%20via%20Formally%20Verified%20Training%20Data%20%282025%29&amp;body=https%3A%2F%2Fryokamoi.github.io%2Fproject%2F2025_fover%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -997,7 +997,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fryokamoi.github.io%2Fproject%2F2025_fover%2F&amp;title=FoVer%3A&#43;Training&#43;PRMs&#43;with&#43;Formal&#43;Verification&#43;Tools&#43;%282025%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fryokamoi.github.io%2Fproject%2F2025_fover%2F&amp;title=FoVer%3A&#43;Generalizable&#43;Process&#43;Reward&#43;Models&#43;via&#43;Formally&#43;Verified&#43;Training&#43;Data&#43;%282025%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1014,7 +1014,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=FoVer%3A&#43;Training&#43;PRMs&#43;with&#43;Formal&#43;Verification&#43;Tools&#43;%282025%29%20https%3A%2F%2Fryokamoi.github.io%2Fproject%2F2025_fover%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=FoVer%3A&#43;Generalizable&#43;Process&#43;Reward&#43;Models&#43;via&#43;Formally&#43;Verified&#43;Training&#43;Data&#43;%282025%29%20https%3A%2F%2Fryokamoi.github.io%2Fproject%2F2025_fover%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1031,7 +1031,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fryokamoi.github.io%2Fproject%2F2025_fover%2F&amp;title=FoVer%3A&#43;Training&#43;PRMs&#43;with&#43;Formal&#43;Verification&#43;Tools&#43;%282025%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fryokamoi.github.io%2Fproject%2F2025_fover%2F&amp;title=FoVer%3A&#43;Generalizable&#43;Process&#43;Reward&#43;Models&#43;via&#43;Formally&#43;Verified&#43;Training&#43;Data&#43;%282025%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
