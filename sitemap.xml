@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ryokamoi.github.io/talk/ai-for-math-mini-minisymposium-at-siam-nnp/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/categories/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/event/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/category/talk/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ryokamoi.github.io/publication-type/1/</loc>
     <lastmod>2025-07-07T21:38:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -22,10 +42,6 @@
     <lastmod>2025-07-07T21:38:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ryokamoi.github.io/</loc>
-    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ryokamoi.github.io/tag/selected/</loc>
     <lastmod>2025-07-07T21:38:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -44,10 +60,6 @@
   </url><url>
     <loc>https://ryokamoi.github.io/post/</loc>
     <lastmod>2025-07-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/categories/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/project/2025_fover/</loc>
@@ -98,15 +110,7 @@
     <lastmod>2024-06-04T11:45:10+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ryokamoi.github.io/event/</loc>
-    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ryokamoi.github.io/talk/matsuo-iwasawa-lab-at-the-university-of-tokyo-llm%E8%AC%9B%E5%BA%A7-ja/</loc>
-    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/category/talk/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

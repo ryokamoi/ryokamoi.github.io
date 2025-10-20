@@ -5,12 +5,21 @@
     <link>https://ryokamoi.github.io/event/</link>
       <atom:link href="https://ryokamoi.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Invited Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryokamoi.github.io/media/icon_hu950cef8d35da75ba4291b7d869913abc_1301_512x512_fill_lanczos_center_3.png</url>
       <title>Invited Talks</title>
       <link>https://ryokamoi.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>AI for Math Mini Minisymposium at SIAM-NNP</title>
+      <link>https://ryokamoi.github.io/talk/ai-for-math-mini-minisymposium-at-siam-nnp/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/talk/ai-for-math-mini-minisymposium-at-siam-nnp/</guid>
+      <description>&lt;p&gt;Talk about &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2505.15960&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Generalizable Process Reward Models via Formally Verified Training Data&lt;/a&gt;&amp;rdquo; at AI for Math Mini Minisymposium in &lt;a href=&#34;https://siamnnp2025.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2025 SIAM New York-New Jersey-Pennsylvania Section Conference&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Matsuo-Iwasawa Lab at the University of Tokyo (LLM講座, ja)</title>
