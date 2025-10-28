@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invited Talks | Ryo Kamoi</title>
+    <link>https://ryokamoi.github.io/talk/</link>
+      <atom:link href="https://ryokamoi.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Invited Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language>
+    <image>
+      <url>https://ryokamoi.github.io/media/icon_hu950cef8d35da75ba4291b7d869913abc_1301_512x512_fill_lanczos_center_3.png</url>
+      <title>Invited Talks</title>
+      <link>https://ryokamoi.github.io/talk/</link>
+    </image>
+    
+  </channel>
+</rss>

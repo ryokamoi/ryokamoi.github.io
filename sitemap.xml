@@ -208,5 +208,8 @@
   </url><url>
     <loc>https://ryokamoi.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/talk/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
