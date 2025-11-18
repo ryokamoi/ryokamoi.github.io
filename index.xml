@@ -5,12 +5,21 @@
     <link>https://ryokamoi.github.io/</link>
       <atom:link href="https://ryokamoi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryo Kamoi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Mon, 17 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryokamoi.github.io/media/icon_hu950cef8d35da75ba4291b7d869913abc_1301_512x512_fill_lanczos_center_3.png</url>
       <title>Ryo Kamoi</title>
       <link>https://ryokamoi.github.io/</link>
     </image>
+    
+    <item>
+      <title>AiTech Seminar at Okazaki Laboratory</title>
+      <link>https://ryokamoi.github.io/talk/aitech-seminar-at-okazaki-laboratory/</link>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/talk/aitech-seminar-at-okazaki-laboratory/</guid>
+      <description>&lt;p&gt;Redirecting to &lt;a href=&#34;https://www.nlp.c.titech.ac.jp/news/2025/11/17/aitech.en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nlp.c.titech.ac.jp/news/2025/11/17/aitech.en.html&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Michinoku Communication Science Seminar (MiCS)</title>
