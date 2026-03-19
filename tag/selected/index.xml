@@ -5,12 +5,20 @@
     <link>https://ryokamoi.github.io/tag/selected/</link>
       <atom:link href="https://ryokamoi.github.io/tag/selected/index.xml" rel="self" type="application/rss+xml" />
     <description>selected</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Tue, 07 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryokamoi.github.io/media/icon_hu950cef8d35da75ba4291b7d869913abc_1301_512x512_fill_lanczos_center_3.png</url>
       <title>selected</title>
       <link>https://ryokamoi.github.io/tag/selected/</link>
     </image>
+    
+    <item>
+      <title>Evaluating LLM-Simulated Conversations in Modeling Inconsistent and Uncollaborative Behaviors in Human Social Interaction</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2026-evaluating/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2026-evaluating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information</title>
