@@ -5,12 +5,20 @@
     <link>https://ryokamoi.github.io/tag/selected/</link>
       <atom:link href="https://ryokamoi.github.io/tag/selected/index.xml" rel="self" type="application/rss+xml" />
     <description>selected</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryokamoi.github.io/media/icon_hu950cef8d35da75ba4291b7d869913abc_1301_512x512_fill_lanczos_center_3.png</url>
       <title>selected</title>
       <link>https://ryokamoi.github.io/tag/selected/</link>
     </image>
+    
+    <item>
+      <title>Efficient PRM Training Data Synthesis via Formal Verification</title>
+      <link>https://ryokamoi.github.io/publication/kamoi-2025-fover/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://ryokamoi.github.io/publication/kamoi-2025-fover/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluating LLM-Simulated Conversations in Modeling Inconsistent and Uncollaborative Behaviors in Human Social Interaction</title>
@@ -33,14 +41,6 @@
       <link>https://ryokamoi.github.io/publication/lou-2024-aaar-10/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       <guid>https://ryokamoi.github.io/publication/lou-2024-aaar-10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient PRM Training Data Synthesis via Formal Verification</title>
-      <link>https://ryokamoi.github.io/publication/kamoi-2025-fover/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://ryokamoi.github.io/publication/kamoi-2025-fover/</guid>
       <description></description>
     </item>
     

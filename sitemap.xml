@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ryokamoi.github.io/publication-type/3/</loc>
-    <lastmod>2026-03-19T09:21:48-04:00</lastmod>
+    <loc>https://ryokamoi.github.io/publication-type/1/</loc>
+    <lastmod>2025-07-07T21:38:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ryokamoi.github.io/publication/kamoi-2026-evaluating/</loc>
-    <lastmod>2026-03-19T09:21:48-04:00</lastmod>
+    <loc>https://ryokamoi.github.io/publication/kamoi-2025-fover/</loc>
+    <lastmod>2025-05-23T01:21:50-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/tag/nlp/</loc>
@@ -34,6 +34,14 @@
     <lastmod>2026-03-19T09:21:48-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ryokamoi.github.io/publication-type/3/</loc>
+    <lastmod>2026-03-19T09:21:48-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ryokamoi.github.io/publication/kamoi-2026-evaluating/</loc>
+    <lastmod>2026-03-19T09:21:48-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ryokamoi.github.io/talk/aitech-seminar-at-okazaki-laboratory/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,10 +64,6 @@
   </url><url>
     <loc>https://ryokamoi.github.io/talk/ai-for-math-mini-minisymposium-at-siam-nnp/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/publication-type/1/</loc>
-    <lastmod>2025-07-07T21:38:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/tag/cv/</loc>
@@ -96,10 +100,6 @@
   </url><url>
     <loc>https://ryokamoi.github.io/publication/lou-2024-aaar-10/</loc>
     <lastmod>2024-10-31T13:02:13-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ryokamoi.github.io/publication/kamoi-2025-fover/</loc>
-    <lastmod>2025-05-23T01:21:50-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ryokamoi.github.io/publication/das-2024-greater/</loc>
