@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: April 7, 2026 --><html lang="ja-Jp" >
+<!-- Last Published: April 8, 2026 --><html lang="ja-Jp" >
 
 
 <head>
@@ -772,17 +772,27 @@ arXiv LaTeX Cleaner I recommend to submit the LaTeX source files to arXiv, inste
 <li>Run the cleaner script: <code>arxiv_latex_cleaner folder_name</code></li>
 </ol>
 <h2 id="download-bbl">Download bbl</h2>
-<p>arXiv requires the <code>.bbl</code> file to be included in the source files. However, Overleaf does not include the <code>.bbl</code> file in the source files by default. You can download the <code>.bbl</code> file from Overleaf by following these steps:</p>
+<p>arXiv may require the <code>.bbl</code> file to be included in the source files. However, Overleaf does not include the <code>.bbl</code> file in the source files by default. You can download the <code>.bbl</code> file from Overleaf by following these steps:</p>
 <ol>
 <li>Open the log window from the file icon to the right of the Recompile button.</li>
 <li>Go down to the bottom and find the &ldquo;Other logs and output files&rdquo; button.</li>
 <li>Click the button and find the <code>.bbl</code> file.</li>
 <li>Download the <code>.bbl</code> file and place it in the same folder as the other source files. You may need to rename the file.</li>
 </ol>
+<p>Another option:</p>
+<ul>
+<li>File &gt; Submission &gt; &ldquo;Submit your paper to arXiv&rdquo; &gt; &ldquo;Download project ZIP with submission files (e.g., bbl)&rdquo;</li>
+</ul>
 <p>Now you can zip the cleaned source files and upload them to arXiv!</p>
+<h2 id="minted">minted</h2>
+<p>To use <a href="https://www.overleaf.com/learn/latex/Code_Highlighting_with_minted" target="_blank" rel="noopener">minted</a> in arXiv submissions, please follow the <a href="https://www.saurabhsinghrajput.com/thoughts/sci-minted-arxiv" target="_blank" rel="noopener">instructions by Saurabh</a>.</p>
+<p>You need to generate cache files by compiling on Overleaf with the option <code>\usepackage[finalizecache,cachedir=.]{minted}</code> (&ldquo;Recompile from scratch&rdquo; may be better) and download the generated cache files in the same way as the <code>.bbl</code> file. Then, you need to change the minted option to <code>\usepackage[frozencache,cachedir=.]{minted}</code> and include the cache files in the source files. When you face issues with minted in arXiv compilation, try &ldquo;TeX Live 2023&rdquo; instead of &ldquo;TeX Live 2025&rdquo; in the arXiv submission form.</p>
 <h2 id="latex-abstract-cleaner">LaTeX Abstract Cleaner</h2>
-<p>I made a simple script to clean the abstract for arXiv submission: <a href="https://github.com/ryokamoi/latex_abstract_cleaner" target="_blank" rel="noopener">ryokamoi/latex_abstract_cleaner</a>.</p>
-<p>It removes the LaTeX commands and special characters from the abstract, so you can copy and paste it into the arXiv submission form.</p>
+<p>I made a simple script to clean the abstract for arXiv submission: <a href="https://github.com/ryokamoi/latex_abstract_cleaner" target="_blank" rel="noopener">ryokamoi/latex_abstract_cleaner</a>. It removes the LaTeX commands and special characters from the abstract, so you can copy and paste it into the arXiv submission form.</p>
+<h2 id="updates">Updates</h2>
+<ul>
+<li>Updated on April 8, 2026: Added the section about minted.</li>
+</ul>
 
     </div>
 

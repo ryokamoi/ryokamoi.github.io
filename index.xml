@@ -78,17 +78,27 @@
 &lt;li&gt;Run the cleaner script: &lt;code&gt;arxiv_latex_cleaner folder_name&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;download-bbl&#34;&gt;Download bbl&lt;/h2&gt;
-&lt;p&gt;arXiv requires the &lt;code&gt;.bbl&lt;/code&gt; file to be included in the source files. However, Overleaf does not include the &lt;code&gt;.bbl&lt;/code&gt; file in the source files by default. You can download the &lt;code&gt;.bbl&lt;/code&gt; file from Overleaf by following these steps:&lt;/p&gt;
+&lt;p&gt;arXiv may require the &lt;code&gt;.bbl&lt;/code&gt; file to be included in the source files. However, Overleaf does not include the &lt;code&gt;.bbl&lt;/code&gt; file in the source files by default. You can download the &lt;code&gt;.bbl&lt;/code&gt; file from Overleaf by following these steps:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Open the log window from the file icon to the right of the Recompile button.&lt;/li&gt;
 &lt;li&gt;Go down to the bottom and find the &amp;ldquo;Other logs and output files&amp;rdquo; button.&lt;/li&gt;
 &lt;li&gt;Click the button and find the &lt;code&gt;.bbl&lt;/code&gt; file.&lt;/li&gt;
 &lt;li&gt;Download the &lt;code&gt;.bbl&lt;/code&gt; file and place it in the same folder as the other source files. You may need to rename the file.&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;Another option:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;File &amp;gt; Submission &amp;gt; &amp;ldquo;Submit your paper to arXiv&amp;rdquo; &amp;gt; &amp;ldquo;Download project ZIP with submission files (e.g., bbl)&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Now you can zip the cleaned source files and upload them to arXiv!&lt;/p&gt;
+&lt;h2 id=&#34;minted&#34;&gt;minted&lt;/h2&gt;
+&lt;p&gt;To use &lt;a href=&#34;https://www.overleaf.com/learn/latex/Code_Highlighting_with_minted&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;minted&lt;/a&gt; in arXiv submissions, please follow the &lt;a href=&#34;https://www.saurabhsinghrajput.com/thoughts/sci-minted-arxiv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;instructions by Saurabh&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You need to generate cache files by compiling on Overleaf with the option &lt;code&gt;\usepackage[finalizecache,cachedir=.]{minted}&lt;/code&gt; (&amp;ldquo;Recompile from scratch&amp;rdquo; may be better) and download the generated cache files in the same way as the &lt;code&gt;.bbl&lt;/code&gt; file. Then, you need to change the minted option to &lt;code&gt;\usepackage[frozencache,cachedir=.]{minted}&lt;/code&gt; and include the cache files in the source files. When you face issues with minted in arXiv compilation, try &amp;ldquo;TeX Live 2023&amp;rdquo; instead of &amp;ldquo;TeX Live 2025&amp;rdquo; in the arXiv submission form.&lt;/p&gt;
 &lt;h2 id=&#34;latex-abstract-cleaner&#34;&gt;LaTeX Abstract Cleaner&lt;/h2&gt;
-&lt;p&gt;I made a simple script to clean the abstract for arXiv submission: &lt;a href=&#34;https://github.com/ryokamoi/latex_abstract_cleaner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ryokamoi/latex_abstract_cleaner&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;It removes the LaTeX commands and special characters from the abstract, so you can copy and paste it into the arXiv submission form.&lt;/p&gt;
+&lt;p&gt;I made a simple script to clean the abstract for arXiv submission: &lt;a href=&#34;https://github.com/ryokamoi/latex_abstract_cleaner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ryokamoi/latex_abstract_cleaner&lt;/a&gt;. It removes the LaTeX commands and special characters from the abstract, so you can copy and paste it into the arXiv submission form.&lt;/p&gt;
+&lt;h2 id=&#34;updates&#34;&gt;Updates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated on April 8, 2026: Added the section about minted.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
