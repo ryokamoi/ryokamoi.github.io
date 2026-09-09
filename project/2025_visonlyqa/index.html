@@ -242,45 +242,6 @@
 
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110530374-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-110530374-1', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
-
 
 
 
@@ -318,7 +279,7 @@
 
   
 
-<meta name="description" content="VisOnlyQA is a benchmark for evaluating the geometric perception capabilities of LVLMs, consisting of 12 tasks that ask about geometric properties (e.g., angle, size, and shape) in four categories of scientific figures: geometric shapes, charts, chemical structures, and 3D shapes. &lt;span class=&#34;highlighted-text&#34;&gt;We demonstrate that LVLMs still often cannot accurately perceive basic geometric information in images.&lt;span&gt;" />
+<meta name="description" content="VisOnlyQA is a benchmark for evaluating the geometric perception capabilities of LVLMs, consisting of 12 tasks that ask about geometric properties (e.g., angle, size, and shape) in four categories of scientific figures: geometric shapes, charts, chemical structures, and 3D shapes. &lt;span class=&#34;highlighted-text&#34;&gt;We demonstrate that LVLMs still often cannot accurately perceive basic geometric information in images.&lt;/span&gt;" />
 
 
 
@@ -360,7 +321,7 @@
 <meta property="og:site_name" content="Ryo Kamoi" />
 <meta property="og:url" content="https://ryokamoi.github.io/project/2025_visonlyqa/" />
 <meta property="og:title" content="VisOnlyQA: LVLMs Still Struggle with Visual Perception of Geometric Information (COLM 2025) | Ryo Kamoi" />
-<meta property="og:description" content="VisOnlyQA is a benchmark for evaluating the geometric perception capabilities of LVLMs, consisting of 12 tasks that ask about geometric properties (e.g., angle, size, and shape) in four categories of scientific figures: geometric shapes, charts, chemical structures, and 3D shapes. &lt;span class=&#34;highlighted-text&#34;&gt;We demonstrate that LVLMs still often cannot accurately perceive basic geometric information in images.&lt;span&gt;" /><meta property="og:image" content="https://ryokamoi.github.io/project/2025_visonlyqa/featured.png" /><meta property="og:locale" content="ja-Jp" />
+<meta property="og:description" content="VisOnlyQA is a benchmark for evaluating the geometric perception capabilities of LVLMs, consisting of 12 tasks that ask about geometric properties (e.g., angle, size, and shape) in four categories of scientific figures: geometric shapes, charts, chemical structures, and 3D shapes. &lt;span class=&#34;highlighted-text&#34;&gt;We demonstrate that LVLMs still often cannot accurately perceive basic geometric information in images.&lt;/span&gt;" /><meta property="og:image" content="https://ryokamoi.github.io/project/2025_visonlyqa/featured.png" /><meta property="og:locale" content="ja-Jp" />
 
   
     <meta
@@ -407,7 +368,7 @@
     "name": "Ryo Kamoi"
   },
   
-  "description": "VisOnlyQA is a benchmark for evaluating the geometric perception capabilities of LVLMs, consisting of 12 tasks that ask about geometric properties (e.g., angle, size, and shape) in four categories of scientific figures: geometric shapes, charts, chemical structures, and 3D shapes. \u003cspan class=\"highlighted-text\"\u003eWe demonstrate that LVLMs still often cannot accurately perceive basic geometric information in images.\u003cspan\u003e"
+  "description": "VisOnlyQA is a benchmark for evaluating the geometric perception capabilities of LVLMs, consisting of 12 tasks that ask about geometric properties (e.g., angle, size, and shape) in four categories of scientific figures: geometric shapes, charts, chemical structures, and 3D shapes. \u003cspan class=\"highlighted-text\"\u003eWe demonstrate that LVLMs still often cannot accurately perceive basic geometric information in images.\u003c/span\u003e"
 }
 </script>
 
